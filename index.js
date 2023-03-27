@@ -32,3 +32,4 @@ function removeFirstCat(name){
     const newCats = [...cats.slice(1)];
     return newCats
 }
+//We did this on the prework I think 
